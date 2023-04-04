@@ -10,3 +10,15 @@ C:\Users\julio\source\repos\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase0
 C:\Users\julio\source\repos\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\refint\Clase02Bibloteca.dll
 C:\Users\julio\source\repos\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.pdb
 C:\Users\julio\source\repos\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\ref\Clase02Bibloteca.dll
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\bin\Debug\net6.0\Clase02Bibloteca.deps.json
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\bin\Debug\net6.0\Clase02Bibloteca.dll
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\bin\Debug\net6.0\Clase02Bibloteca.pdb
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.AssemblyInfo.cs
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.dll
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\refint\Clase02Bibloteca.dll
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\Clase02Bibloteca.pdb
+C:\Users\julio\source\repos\LaboratorioyProgramacion2\ConsoleApp1\Clase02Bibloteca\obj\Debug\net6.0\ref\Clase02Bibloteca.dll

@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using System.Text;
 using Clase02Bibloteca;
 
 namespace Clase02
@@ -24,8 +25,26 @@ namespace Clase02
 
             Validador.validaTexto("Que le anda pasando? otitis,alergias o parasitos u otra?", out diagnostico, "otitis", "alergias", "parasitos", "otra");
 
+            //Esto seria para mostrar los datos de la manera comun con writeline
+            //Console.WriteLine("Su mascota es: {0} , tiene {1} año, es un {2} y pesa {3}. Tiene {4}", nombreMascota, edadMascota, tipoMascota, pesoMascota, diagnostico);
 
-            Console.WriteLine("Su mascota es: {0} , tiene {1} año, es un {2} y pesa {3}. Tiene {4}", nombreMascota, edadMascota, tipoMascota, pesoMascota, diagnostico);
+
+            //Ejemplo siguiente utilizando stringbuilder
+            //se puede hacer insert, apendformat, apendline
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Su mascota es: "+ nombreMascota);
+            sb.Append(" tiene " + edadMascota + " años ");
+            sb.Append(", es un " + tipoMascota );
+            sb.Append(" y pesa " + pesoMascota + " kilos.");
+            sb.AppendLine("Le encontramos de diagnostico " + diagnostico);
+            Console.WriteLine(sb);
+
+
+            //foreach sirve para recorrer letra a letra una cadena.
+            foreach (char letra in nombreMascota)
+            {
+                Console.WriteLine(letra);
+            }
 
             Console.ReadKey();
 

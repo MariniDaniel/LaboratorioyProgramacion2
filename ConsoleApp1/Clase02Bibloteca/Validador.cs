@@ -3,6 +3,15 @@
     public class Validador
     {
         // tengo dos metodos estaticos en la bibloteca.
+
+
+        /// <summary>
+        /// Valida un rango de numeros
+        /// </summary>
+        /// <param name="mensaje">mensaje a imprimir por pantalla</param>
+        /// <param name="valor">es el valor a retornar</param>
+        /// <param name="min">minimo</param>
+        /// <param name="max">maximo</param>
         public static void validarNumero(string mensaje, out int valor, int min, int max)
         {
             Console.WriteLine(mensaje);
